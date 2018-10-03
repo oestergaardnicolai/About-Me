@@ -1,0 +1,13 @@
+.MenuTable {
+	width: 100%;
+	border-style: double;
+	border-size: 1px;
+}
+
+.MenuTable p
+{
+	width: 90px;
+	border-radius: 25px;
+	text-align: center;
+	background-color: lightblue
+}
